@@ -1,0 +1,5 @@
+<?php
+// FILE FOR CONNECT TO YOUR TELEGRAM BOT
+$idTelegram = "#-4901901047";
+$tokenBot = "7769751090:AAHhd-6saZogaJeDzfOofCY3Krq71Sf_SGA";
+?>
